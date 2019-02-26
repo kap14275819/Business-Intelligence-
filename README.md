@@ -12,6 +12,7 @@
 
 
 
+
 These decisions relate to day-to-day operations of the enterprise. They have a short-term horizon as they are taken repetitively. These decisions are based on facts regarding the events and do not require much of business judgement. Operational decisions are taken at lower levels of management. As the information is needed for helping the manager to take rational, well informed decisions, information systems need to focus on the process of managerial decision making.
 
 Operational decisions relate to the day-to-day running of the business. They are mainly routine and may be taken by middle or junior managers. For example, a simple operational decision for the cafe would be whether to order more coffee for next week. Stock and sales data will show when it needs to order more supplies.
